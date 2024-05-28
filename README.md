@@ -6,7 +6,7 @@ Meu nome é Laura de Oliveira
 - Estou me desenvolvendo na liguagem JavaScript
 - Ultiliza esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-## você entrar em contato comigo 📫
+## Para você entrar em contato comigo 📫
 
   0000112083501xsp@al.educacao.sp.gov.br
 
